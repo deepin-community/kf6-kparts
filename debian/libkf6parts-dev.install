@@ -1,0 +1,4 @@
+usr/include/KF6/KParts/
+usr/lib/*/cmake/KF6Parts/
+usr/lib/*/libKF6Parts.so
+usr/share/kdevappwizard/templates/
